@@ -1,5 +1,9 @@
 # ES-challenge-03-JavaScript
 
+## Challenge: 
+Create an application that generates a random password based on criteria determined by user.
+
+### Acceptance Criteria
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
